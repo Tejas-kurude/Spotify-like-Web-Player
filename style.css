@@ -718,8 +718,6 @@ body {
 
 .playnow {
     display: flex;
-    /* position: absolute; */
-    /* right: 1rem; */
     align-items: center;
     gap: 0.7rem;
 }
@@ -750,8 +748,6 @@ body {
 }
 
 .info {
-    /* border: 2px solid white; */
-
     width: 20vw;
     height: 2rem;
     position: relative;
